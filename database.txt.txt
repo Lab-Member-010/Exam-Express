@@ -1,0 +1,8 @@
+models: 
+user
+admin
+
+table name
+user table
+admin table 
+resigtration table 
